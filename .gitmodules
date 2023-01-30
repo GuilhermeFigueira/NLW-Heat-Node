@@ -1,0 +1,9 @@
+[submodule "nlw-heat-node-api"]
+	path = nlw-heat-node-api
+	url = .\\nlw-heat-node-api\\
+[submodule "nlw-heat-node-mobile"]
+	path = nlw-heat-node-mobile
+	url = .\\nlw-heat-node-mobile\\
+[submodule "nlw-heat-node-web"]
+	path = nlw-heat-node-web
+	url = .\\nlw-heat-node-web\\
