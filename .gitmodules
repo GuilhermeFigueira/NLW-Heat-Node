@@ -1,3 +1,9 @@
 [submodule "nlw-heat-node-api"]
 	path = nlw-heat-node-api
 	url = https://github.com/GuilhermeFigueira/nlw-heat-node-api.git
+[submodule "nlw-heat-node-mobile"]
+	path = nlw-heat-node-mobile
+	url = https://github.com/GuilhermeFigueira/nlw-heat-node-mobile.git
+[submodule "nlw-heat-node-web"]
+	path = nlw-heat-node-web
+	url = https://github.com/GuilhermeFigueira/nlw-heat-node-web
