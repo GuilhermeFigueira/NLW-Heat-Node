@@ -1,0 +1,3 @@
+[submodule "nlw-heat-node-api"]
+	path = nlw-heat-node-api
+	url = https://github.com/GuilhermeFigueira/nlw-heat-node-api.git
